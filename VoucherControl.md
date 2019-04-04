@@ -20,14 +20,15 @@ this web application has to be connected with a database where all the vouchers 
  #### Product Perpective
   This system will consist in two part one of them is the web application where all the vouchers that we make are storage and the other   is gonna be the database where it's located into a database.
   
-  the web application .-
-  the data base.- has to have all the voucher ended 
+  the web application .- has to get the registers from the client.
+  the data base.- has to have all the voucher ended.
 
-  
  #### Product Functions
  #### User Characteristics
- #### Constraints
+  in this part we'll have some actor that are involucrate in this software
   
+ #### Constraints
+  one of the constraints that I see is we have three 
  #### Assumptions and dependencies
  #### Apportioning of requirements
 
