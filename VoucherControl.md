@@ -1,5 +1,3 @@
-WebSystemDocument
-
 ## Introduction 
   The place where I work we have a voucher system also we want to improve reducing the paper to have a better control and managment. It make a inventory where all the voucher storage into a DataBase with that in mind could be more faster to find a especific voucher, without searching in all the papers that we have.
 ## Purpose
@@ -13,12 +11,14 @@ this web application has to be connected with a database where all the vouchers 
 | Term | Definition |
 | ----------- | ----------- |
 | Voucher | Document it has to be filled with the name of the person, his/her registration number, and the tools he will borrow |
+|  Data Base  |  |
+
 
 ## References
 
 ## Overview
  #### Product Perpective
-  ##### This system will be planed in a webpage that storage every vouncher that we make, the system will be controller by a person who     write in each box all the information from the customer, customer borrow a lot of tools that the UACJ have.
+  This system will be planed in a web application that storage every voucher that we make, the system will be controller by a person who write in each box all the information from the customer, customer borrow a lot of tools that the UACJ have.
   
  #### Product Functions
  #### User Characteristics
