@@ -18,11 +18,16 @@ this web application has to be connected with a database where all the vouchers 
 
 ## Overview
  #### Product Perpective
-  This system will be planed in a web application that storage every voucher that we make, the system will be controller by a person who write in each box all the information from the customer, customer borrow a lot of tools that the UACJ have.
+  This system will consist in two part one of them is the web application where all the vouchers that we make are storage and the other   is gonna be the database where it's located into a database.
+  
+  the web application .-
+  the data base.- has to have all the voucher ended 
+
   
  #### Product Functions
  #### User Characteristics
  #### Constraints
+  
  #### Assumptions and dependencies
  #### Apportioning of requirements
 
