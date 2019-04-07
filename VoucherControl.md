@@ -11,25 +11,31 @@ this web application has to be connected with a database where all the vouchers 
 | Term | Definition |
 | ----------- | ----------- |
 | Voucher | Document it has to be filled with the name of the person, his/her registration number, and the tools he will borrow |
-|  Data Base  |  |
+|  Data Base  | it is the place where all the document voucher ended are gonna storaged here  |
 
 
 ## References
 
 ## Overview
  #### Product Perpective
-  This system will consist in two part one of them is the web application where all the vouchers that we make are storage and the other   is gonna be the database where it's located into a database.
-  
+  This system will consist in two part one of them is the web application where all the vouchers that we make are storage and the other   is where all the voucher gonna storage and that it's located into a database.
+ #### Product Functions
   the web application .- has to get the registers from the client.
   the data base.- has to have all the voucher ended.
-
- #### Product Functions
  #### User Characteristics
-  in this part we'll have some actor that are involucrate in this software
+  in this part we'll have some actor that are involucrate in this software.
   
+| actors | description |
+| ----------- | ----------- |
+| Client | it's the person who gonna ask for the materials |
+|  Employee  | the employee it's the person who gonna filled the digital voucher with all the record from the customer  |
+| Administrator | person who administrate the software and care thet everything is okay with all the functions |
+
  #### Constraints
-  one of the constraints that I see is we have three 
+  one of the constraints that I see is we have three windows and only one computer in it, so this could be the main
+  barely the old computer that we have could be also a problem, when we are filling the data 
  #### Assumptions and dependencies
+ 
  #### Apportioning of requirements
 
 ## Specific Requirements 
