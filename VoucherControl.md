@@ -46,7 +46,7 @@ this web application has to be connected with a database where all the vouchers 
 
 ## Specific Requirements 
  #### User Interfaces
-    in the moment they or we use for the first time we have our web application where it has different sections but first at all we have to choose the button to create a new digital voucher then the employee he/she gather the information from the customer that everything he/she wants and pulled into the digital voucher 
+  in the moment they or we use for the first time we have our web application where it has different sections but first at all we have to choose the button to create a new digital voucher then the employee he/she gather the information from the customer that everything he/she wants and pulled into the digital voucher 
  #### Hardware Interfaces
  #### Software Interfaces
  #### Communications Interfaces
