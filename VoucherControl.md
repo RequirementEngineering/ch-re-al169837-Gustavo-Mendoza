@@ -23,6 +23,7 @@ this web application has to be connected with a database where all the vouchers 
   This system will consist in two part one of them is the web application where all the vouchers that we make are storage and the other   is where all the voucher gonna storage and that it's located into a database.
  #### Product Functions
   the web application .- has to get the registers from the client.
+  
   the data base.- has to have all the ended vouchers.
  #### User Characteristics
   in this part we'll have some actor that are involucrate in this software.
