@@ -21,7 +21,7 @@ this web application has to be connected with a database where all the vouchers 
   This system will consist in two part one of them is the web application where all the vouchers that we make are storage and the other   is where all the voucher gonna storage and that it's located into a database.
  #### Product Functions
   the web application .- has to get the registers from the client.
-  the data base.- has to have all the voucher ended.
+  the data base.- has to have all the ended vouchers.
  #### User Characteristics
   in this part we'll have some actor that are involucrate in this software.
   
@@ -33,14 +33,20 @@ this web application has to be connected with a database where all the vouchers 
 
  #### Constraints
   one of the constraints that I see is we have three windows and only one computer in it, so this could be the main
-  barely the old computer that we have could be also a problem, when we are filling the data 
+  barely the old computer that we have could be also a problem, when we are filling the data.
+  all the tools doesn't have a number registration for know how much we have in the inventory also the internet we need to make more       large. 
  #### Assumptions and dependencies
- 
+ | Assumptions(AS) and dependencies(DE) | description |
+| ----------- | ----------- |
+| AS.-1 | only one employee use the software per machine |
+| AS.-2 | just a client it will be attended |
+| DE.-1 | internet connection |
+| DE.-2 | bad performance of the computer and end the system |
  #### Apportioning of requirements
 
 ## Specific Requirements 
-
  #### User Interfaces
+    in the moment they or we use for the first time we have our web application where it has different sections but first at all we have to choose the button to create a new digital voucher then the employee he/she gather the information from the customer that everything he/she wants and pulled into the digital voucher 
  #### Hardware Interfaces
  #### Software Interfaces
  #### Communications Interfaces
