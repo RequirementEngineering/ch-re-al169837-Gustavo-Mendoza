@@ -32,7 +32,7 @@ this web application has to be connected with a database where all the vouchers 
   
 | actors | description |
 | ----------- | ----------- |
-| Client | it's the person who gonna ask for the materials |
+| customer | it's the person who gonna ask for the materials |
 |  Employee  | the employee it's the person who gonna filled the digital voucher with all the record from the customer  |
 | Administrator | person who administrate the software and care thet everything is okay with all the functions |
 
@@ -53,7 +53,7 @@ this web application has to be connected with a database where all the vouchers 
  #### User Interfaces
   in the moment they or we use for the first time we have our web application where it has different sections but first at all we have to choose the button to create a new digital voucher then the employee he/she gather the information from the customer that everything he/she wants and pulled into the digital voucher 
  #### Hardware Interfaces
-  neither of the web application and the datbase server have any physical hardware both of them are through the internet and does need some hardware
+  neither of the web application and the database server have any physical hardware both of them are through the internet and does need some hardware
  #### Software Interfaces
   the web application has to be opened with a some web browser to be activated
  #### Communications Interfaces
