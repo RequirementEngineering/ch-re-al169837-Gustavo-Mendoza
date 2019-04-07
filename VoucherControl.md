@@ -21,6 +21,8 @@ this web application has to be connected with a database where all the vouchers 
 ## Overview
  #### Product Perpective
   This system will consist in two part one of them is the web application where all the vouchers that we make are storage and the other   is where all the voucher gonna storage and that it's located into a database.
+  
+  the web application has to have a different areas where it stored the end or process voucher, the vouncher has to have differents field where they/we has to be filled with all the borrow tools that the customers gonna ask, then voucher gone to the first field that is voucher in progress that storage all it then of that when the customer back the material we need to mark in the right field that the tools is already back if there is not any problem the voucher goes to the next area and that is "ended voucher without observations" meanwhile it has a observation field in the digital voucher goes to differente area "Voucher with observations" and all it storaged into a database server 
  #### Product Functions
   the web application .- has to get the registers from the client.
   
