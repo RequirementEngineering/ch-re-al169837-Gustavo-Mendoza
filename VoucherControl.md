@@ -1,5 +1,5 @@
 ## Introduction 
-  The place where I work we have a voucher system also we want to improve reducing the paper to have a better control and managment. It make a inventory where all the voucher storage into a DataBase with that in mind could be more faster to find a especific voucher, without searching in all the papers that we have.
+  The place where I work we have a voucher system also we want to improve reducing the paper to have a better control and managment. It make a inventory where all the voucher storage into a DataBase with that in mind could be more faster to find a especific voucher without searching in all the papers that we have.
 ## Purpose
   This project is based on a paper problem where the records that are carried out on paper, it is very easy to lose these records or fill them in an erroneous way, so create a web page where the vouchers are registered and accommodate a simple form and by date where it will maintain an order and better management of internal control and of the borrowed objects.
 ## Scope
@@ -39,7 +39,7 @@ this web application has to be connected with a database where all the vouchers 
  #### Constraints
   one of the constraints that I see is we have three windows and only one computer in it, so this could be the main
   barely the old computer that we have could be also a problem, when we are filling the data.
-  all the tools doesn't have a number registration for know how much we have in the inventory also the internet we need to make more       large. 
+  all the tools doesn't have a number registration for know how much we have in the inventory.
  #### Assumptions and dependencies
 | Assumptions(AS) and dependencies(DE) | description |
 | ----------- | ----------- |
