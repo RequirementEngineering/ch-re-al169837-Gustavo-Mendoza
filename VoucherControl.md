@@ -95,3 +95,20 @@ use cases: returning the tools
 | 2.- | the employee receives the tools and start filled the end field into the digital voucher |
 | 3.- | the employee if everything it's okay returning all the borrow tools the employee return the ISC |
 | 4.- | the customer it goes  |ing
+
+use cases: returning the tools with observations
+
+| use cases | returning the tools with observations |
+| ---------- | ----------- |
+| Actor (s) | Customer, employee and administrator |
+| Pre-conditional | the customer already finish using the tools but has a observation |
+| 1.- | the customer goes for okace he/she asked for tools |
+| 2.- | the employee check if the tools has a problem |
+| 3.- | and in this case it has a problem |
+| 4.- | the employee call a to his administrator |
+| 5.- | the vouches goes to the area called vouchers with observations |
+| 6.- | the customer goes with the administrator  |
+| 7.- | the tools goes to his selected area called tools with damage |
+
+
+
