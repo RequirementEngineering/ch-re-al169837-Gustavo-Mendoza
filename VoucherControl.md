@@ -28,13 +28,13 @@ this web application has to be connected with a database where all the vouchers 
   
   the data base.- has to have all the ended vouchers.
  #### User Characteristics
-  in this part we'll have some actor that are involucrate in this software.
+  in this part we'll have some actor that are involucrate in this web application.
   
 | actors | description |
 | ----------- | ----------- |
 | customer | it's the person who gonna ask for the materials |
 |  Employee  | the employee it's the person who gonna filled the digital voucher with all the record from the customer  |
-| Administrator | person who administrate the software and care thet everything is okay with all the functions |
+| Administrator | person who administrate the software and care thet everything is okay with all the functions and bring more material  |
 
  #### Constraints
   one of the constraints that I see is we have three windows and only one computer in it, so this could be the main
@@ -51,7 +51,7 @@ this web application has to be connected with a database where all the vouchers 
 
 ## Specific Requirements 
  #### User Interfaces
-  in the moment they or we use for the first time we have our web application where it has different sections but first at all we have to choose the button to create a new digital voucher then the employee he/she gather the information from the customer that everything he/she wants and pulled into the digital voucher 
+  in the moment they or we use for the first time we have our web application where it has different sections but first at all we have to choose the button to create a new digital voucher then the employee he/she gather the information from the customer that everything he/she wants and pulled into the digital voucher. 
  #### Hardware Interfaces
   neither of the web application and the database server have any physical hardware both of them are through the internet and does need some hardware
  #### Software Interfaces
@@ -110,5 +110,20 @@ use cases: returning the tools with observations
 | 6.- | the customer goes with the administrator  |
 | 7.- | the tools goes to his selected area called tools with damage |
 
+## Appendixes 
+  ### Elicitation process 
+  at 10:49 a.m. with Juan Guillen and Jesus, they told me about a web application that they do depending on the control of vouchers and they are digital, in which they believe, they are sent to an area in which they remain active until they return tools provided after the delivery is verified if the borrowed tools are in condition which were loaned
+me- So, they want vouchers to have a section to check the tools delivered.
 
+they-yes, we also thought that at the end of the voucher if you have in the observations section, you send them to two respective areas "Vales with observations" and "Vales without observations" and keep them in a database and stay there.
+
+Me-and if the vouchers have observations?
+
+they- send us to speak to us and the voucher is saved in the "vouchers with observation" section
+
+Me-then in the area of "Vouchers in process" can be modified to request more material?
+
+they-yes, the students ask for things after having asked.
+
+me- and leave something to take the material?
 
