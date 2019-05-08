@@ -87,7 +87,7 @@ use cases: asking for tools
 
 use cases: returning the tools
 
-| use cases | returning the toolswithout observations |
+| use cases | returning the tools without observations |
 | ----------- | ----------- |
 | Actor(s) | customer and employee |
 | pre-conditional | the customer already finish using the tools |
