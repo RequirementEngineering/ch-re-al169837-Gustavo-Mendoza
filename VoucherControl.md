@@ -34,7 +34,9 @@ this web application has to be connected with a database where all the vouchers 
 | ----------- | ----------- |
 | customer | it's the person who gonna ask for the materials |
 |  Employee  | the employee it's the person who gonna filled the digital voucher with all the record from the customer  |
-| Administrator | person who administrate the software and care thet everything is okay with all the functions and bring more material  |
+| Administrator | person who administrate the software and care thet everything is okay with all the functions and bring more material |
+| Secondary actors | description |
+| Supplier | it is the person who bring all the new materials(Tools) to the place |
 
  #### Constraints
   one of the constraints that I see is we have three windows and only one computer in it, so this could be the main
@@ -128,4 +130,18 @@ they-yes, the students ask for things after having asked.
 me- and leave something to take the material?
 
 they- yes,they leave his/her ISC 
+
+me- it has his own inventory storage?
+
+they-we had not thought about it but it you could di that we like to put that in the application
+
+me-how often do you send a message for new material?
+
+they- not much often, just when isn't material
+
+me- and that's all?
+
+they- yes that's all.
+
+
 
