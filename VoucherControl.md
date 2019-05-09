@@ -74,6 +74,8 @@ use cases: installation
 | 3.- | check the application is working  |
 | 4.- | turn off the computer or whether let the employee start using it  |
 
+![Capture](https://user-images.githubusercontent.com/43121456/57473722-b9fe2680-724d-11e9-9733-0dab3e61def7.PNG)
+
 use cases: asking for tools
 
 | use cases  | borrow of tools |
