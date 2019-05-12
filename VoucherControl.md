@@ -74,6 +74,8 @@ use cases: installation
 | 3.- | check the application is working  |
 | 4.- | turn off the computer or whether let the employee start using it  |
 
+![Capture](https://user-images.githubusercontent.com/43121456/57577615-3e140200-7438-11e9-9f44-a36849290760.PNG)
+
 use cases: asking for tools
 
 | use cases  | borrow of tools |
@@ -86,6 +88,8 @@ use cases: asking for tools
 | 4.- | the customer let his ISC |
 | 5.- | the customer it goes |
 | 6.- | the employee keep that document and the ISC |
+
+![askingForTools](https://user-images.githubusercontent.com/43121456/57577616-410ef280-7438-11e9-9b81-2c1b46f9fe03.PNG)
 
 use cases: returning the tools
 
