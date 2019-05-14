@@ -103,6 +103,7 @@ use cases: returning the tools
 | Alternative | Description |
 | line 2 | the tools has a damage when it is returned the voucher gone a different area called "voucher with observations" and it'll call the administrator|
 
+NO FUNCTIONAL
 
 ## Appendixes 
   ### Elicitation process 
