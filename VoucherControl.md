@@ -4,7 +4,7 @@ Instituto de Ingeneria y Tecnologia
 
 Ingeneria en software
 
-
+<img src="https://user-images.githubusercontent.com/43121456/57881628-08c43700-77df-11e9-9ecc-7dc27aeda136.png" height="200" width="200px">
 
 
 Creacion de SRS
@@ -61,9 +61,9 @@ this web application has to be connected with a database where all the vouchers 
 | DeliveryMan | it is the person who cares to bring the material to the administrator |
 
  #### Constraints
-  one of the constraints that I see is we have three windows and only one computer in it, so this could be the main
+  one of the constraints that I see is we have three windows and only one computer in it, so this could be the main 
   barely the old computer that we have could be also a problem, when we are filling the data.
-  all the tools doesn't have a number registration for know how much we have in the inventory.
+  all the tools doesn't have a number registration to know how much we have in the inventory.
  #### Assumptions and dependencies
 | Assumptions(AS) and dependencies(DE) | description |
 | ----------- | ----------- |
