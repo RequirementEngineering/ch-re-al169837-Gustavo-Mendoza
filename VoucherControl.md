@@ -1,3 +1,23 @@
+Universidad Autonoma de Ciudad Juarez
+
+Instituto de Ingeneria y Tecnologia
+
+Ingeneria en software
+
+
+
+
+Creacion de SRS
+
+Gustavo Alejandro Mendoza Cerna
+169837
+
+Desarollo de requisitos de software
+
+A Mayo 2019
+
+
+
 ## Introduction 
   The place where I work we have a voucher system also we want to improve reducing the paper to have a better control and managment. It make a inventory where all the voucher storage into a DataBase with that in mind could be more faster to find a especific voucher without searching in all the papers that we have.
 ## Purpose
@@ -120,6 +140,17 @@ NO FUNCTIONAL
   ### Elicitation process 
   at 10:49 a.m. with Juan Guillen and Jesus, they told me about a web application that they do depending on the control of vouchers and they are digital, in which they believe, they are sent to an area in which they remain active until they return tools provided after the delivery is verified if the borrowed tools are in condition which were loaned
 me- So, they want vouchers to have a section to check the tools delivered.
+
+they- the digital voucher has to have
+  * Matery
+  * teacher
+  * hour
+  * day/month/year
+  * list of tools
+  * person who lend the tools
+  * person who receive the tools
+  * name of the customer
+  * registation number
 
 they-yes, we also thought that at the end of the voucher if you have in the observations section, you send them to two respective areas "Vales with observations" and "Vales without observations" and keep them in a database and stay there.
 
