@@ -1,7 +1,7 @@
 ## Introduction 
   The place where I work we have a voucher system also we want to improve reducing the paper to have a better control and managment. It make a inventory where all the voucher storage into a DataBase with that in mind could be more faster to find a especific voucher without searching in all the papers that we have.
 ## Purpose
-  This project is based on a paper problem where the records that are carried out on paper, it is very easy to lose these records or fill them in an erroneous way, so create a web page where the vouchers are registered and accommodate a simple form and by date where it will maintain an order and better management of internal control and of the borrowed objects.
+  This project is based on a paper problem where the records that are carried out on paper, it is very easy to lose these records or fill them in an erroneous way, so create a web page where the vouchers are registered and accommodate a simple form and by date where it will maintain an order and better management of internal control and of the lending tools.
 ## Scope
   The control of Voucher is a web application that helps to have a better organization when creating vouchers. it will have specifications such as name, registration number, date, loan tools and the room that was provided. Must have this information to be stored in a different area but before being stored. it must be reviewed by the system and the system will be the one that will choose in what area it will stay if in the "voucher area without observations" or in the "voucher area with observations".
   
@@ -10,7 +10,7 @@ this web application has to be connected with a database where all the vouchers 
 ## Definitions, acronyms, and abbreviations
 | Term | Definition |
 | ----------- | ----------- |
-| Voucher | Document it has to be filled with the name of the person, his/her registration number, and the tools he will borrow |
+| Voucher | Document it has to be filled with the name of the person, his/her registration number, and the tools he will lending |
 |  Data Base  | it is the place where all the document voucher ended are gonna storaged here  |
 |  ISC  | identification school card  |
 
@@ -36,7 +36,8 @@ this web application has to be connected with a database where all the vouchers 
 |  Employee  | the employee it's the person who gonna filled the digital voucher with all the record from the customer  |
 | Administrator | person who administrate the software and care thet everything is okay with all the functions and bring more material |
 | Secondary actors | description |
-| Supplier | it is the person who bring all the new materials(Tools) to the place |
+| Supplier | it is the person who take the request from the administrator |
+| DeliveryMan | it is the person who cares to bring the material to the administrator |
 
  #### Constraints
   one of the constraints that I see is we have three windows and only one computer in it, so this could be the main
@@ -78,7 +79,7 @@ use cases: installation
 
 use cases: asking for tools
 
-| use cases  | borrow of tools |
+| use cases  | lending of tools |
 | ---------- | --------------- |
 | actor(s) | Customer and employee |
 | Pre-conditional | the Web application is already opened |
@@ -103,6 +104,16 @@ use cases: returning the tools
 | Alternative | Description |
 | line 2 | the tools has a damage when it is returned the voucher gone a different area called "voucher with observations" and it'll call the administrator|
 
+| use cases | there are not tools to lending  |
+| ----- | ------- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
 NO FUNCTIONAL
 
 ## Appendixes 
@@ -124,10 +135,6 @@ me- and leave something to take the material?
 
 they- yes,they leave his/her ISC 
 
-me- it has his own inventory storage?
-
-they-we had not thought about it but it you could di that we like to put that in the application
-
 me-how often do you send a message for new material?
 
 they- not much often, just when isn't material
@@ -136,5 +143,6 @@ me- and that's all?
 
 they- yes that's all.
 
-
+Conclusion
+I thought that doing the elicitation process covered all the main actors and it was already everything, but when doing the BPM I discovered that behind the whole process there were two secondary actors and they are fundamental when there are no tools, and the whole process it takes to take a simple order and lend it
 
