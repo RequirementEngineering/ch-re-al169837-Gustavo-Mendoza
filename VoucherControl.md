@@ -143,7 +143,7 @@ NO FUNCTIONAL
 me- So, they want vouchers to have a section to check the tools delivered.
 
 they- the digital voucher has to have
-  * Matery
+  * Carrer
   * teacher
   * hour
   * day/month/year
