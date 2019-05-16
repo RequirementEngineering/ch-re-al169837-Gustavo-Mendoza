@@ -43,7 +43,7 @@ this web application has to be connected with a database where all the vouchers 
  #### Product Perpective
   This system will consist in two part one of them is the web application where all the vouchers that we make are storage and the other   is where all the voucher gonna storage and that it's located into a database.
   
-  the web application has to have a different areas where it stored the end or process voucher, the vouncher has to have differents field where they/we has to be filled with all the borrow tools that the customers gonna ask, then voucher gone to the first field that is voucher in progress that storage all it then of that when the customer back the material we need to mark in the right field that the tools is already back if there is not any problem the voucher goes to the next area and that is "ended voucher without observations" meanwhile it has a observation field in the digital voucher goes to differente area "Voucher with observations" and all it storaged into a database server 
+  the web application has to have a different areas where it stored the end or process voucher, the vouncher has to have differents field where they/we has to be filled with all the lend tools that the customers gonna ask, then voucher gone to the first field that is voucher in progress that storage all it then of that when the customer back the material we need to mark in the right field that the tools is already back if there is not any problem the voucher goes to the next area and that is "ended voucher without observations" meanwhile it has a observation field in the digital voucher goes to differente area "Voucher with observations" and all it storaged into a database server 
  #### Product Functions
   the web application .- has to get the registers from the client.
   
@@ -127,13 +127,17 @@ use cases: returning the tools
 
 | use cases | there are not tools to lending  |
 | ----- | ------- |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| Actors | Administrator, employee,  supplier and deliveryMan |
+| pre-conditional | the tools are already lend or there are not in the inventory |
+| 1.- | the administrator make a request of tools |
+| 2.- | the supplier take the orden and start searching the tools |
+| 3.- | give the tools to the deliveryMan and he goes to the car |
+| 4.- | the deliveryMan take his car and start with the travel |
+| 5.- | arrives with the administrator and give the tools  |
+| 6.- | administrator carries the tools with the employee |
+| 7.- | the employee accommodate the tools  |
+| alternative | description |
+| Line 2 | the supplier does not have the tools in his inventory and take time to wait for more tools |
 
 NO FUNCTIONAL
 
@@ -176,5 +180,5 @@ me- and that's all?
 they- yes that's all.
 
 Conclusion
-I thought that doing the elicitation process covered all the main actors and it was already everything, but when doing the BPM I discovered that behind the whole process there were two secondary actors and they are fundamental when there are no tools, and the whole process it takes to take a simple order and lend it
+I thought that doing the elicitation process covered all the main actors and it was already everything, but when doing the BPM I discovered that behind the whole process there were two secondary actors and they are fundamental when there are no tools, and the whole process it takes to take a simple order and lend it. I discovered an extra secondary actor where is the deliveryman who cares to bring the tools to the administrator 
 
