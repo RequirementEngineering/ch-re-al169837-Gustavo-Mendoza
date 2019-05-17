@@ -139,7 +139,9 @@ use cases: returning the tools
 | alternative | description |
 | Line 2 | the supplier does not have the tools in his inventory and take time to wait for more tools |
 
-NO FUNCTIONAL
+## BPM
+
+![businessProcesVoucher](https://user-images.githubusercontent.com/43121456/57894640-cf062700-7804-11e9-9272-98442df64f90.jpg)
 
 ## Appendixes 
   ### Elicitation process 
