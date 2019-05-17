@@ -22,7 +22,7 @@ A Mayo 2019
 ## Introduction 
   The place where I work we have a voucher system also we want to improve reducing the paper to have a better control and managment. It make a inventory where all the voucher storage into a DataBase with that in mind could be more faster to find a especific voucher without searching in all the papers that we have.
 ## Purpose
-  This project is based on a paper problem where the records that are carried out on paper, it is very easy to lose these records or fill them in an erroneous way, so create a web page where the vouchers are registered and accommodate a simple form and by date where it will maintain an order and better management of internal control and of the lending tools.
+  This project is based on a paper problem where the records that are carried out on paper, it is very easy to lose these records or fill them in an erroneous way, so create a web page where the vouchers are registered and accommodate a simple way and by date where it will maintain an order and better management of internal control and of the lending tools.
 ## Scope
   The control of Voucher is a web application that helps to have a better organization when creating vouchers. it will have specifications such as name, registration number, date, loan tools and the room that was provided. Must have this information to be stored in a different area but before being stored. it must be reviewed by the system and the system will be the one that will choose in what area it will stay if in the "voucher area without observations" or in the "voucher area with observations".
   
@@ -76,6 +76,8 @@ this web application has to be connected with a database where all the vouchers 
 ## Specific Requirements 
  #### User Interfaces
   in the moment they or we use for the first time we have our web application where it has different sections but first at all we have to choose the button to create a new digital voucher then the employee he/she gather the information from the customer that everything he/she wants and pulled into the digital voucher. 
+  
+  
  #### Hardware Interfaces
   neither of the web application and the database server have any physical hardware both of them are through the internet and does need some hardware
  #### Software Interfaces
