@@ -2,7 +2,7 @@ Universidad Autonoma de Ciudad Juarez
 
 Instituto de Ingeneria y Tecnologia
 
-Ingeneria en software
+Ingeniería en software
 
 <img src="https://user-images.githubusercontent.com/43121456/57881628-08c43700-77df-11e9-9ecc-7dc27aeda136.png" height="200" width="200px">
 
