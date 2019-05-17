@@ -141,6 +141,14 @@ use cases: returning the tools
 | alternative | description |
 | Line 2 | the supplier does not have the tools in his inventory and take time to wait for more tools |
 
+## Non Functional requirements
+  the voucher it is send to the different area only for the system
+  
+  the web application has to have internet to work
+  
+  the database stored every voucher ended
+ 
+
 ## BPM
 
 ![businessProcesVoucher](https://user-images.githubusercontent.com/43121456/57894640-cf062700-7804-11e9-9272-98442df64f90.jpg)
