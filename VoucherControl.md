@@ -79,11 +79,11 @@ this web application has to be connected with a database where all the vouchers 
   
   
  #### Hardware Interfaces
-  neither of the web application and the database server have any physical hardware both of them are through the internet and does need some hardware
+  neither of the web application and the database server have any physical hardware both of them are through the internet and doesn't  need some hardware
  #### Software Interfaces
   the web application has to be opened with a some web browser to be activated
  #### Communications Interfaces
-
+  the communication between the different parts of the system is important since they depend on each other. however, in what way the communication is achieved is important wehre it stored for the system, but it has to be operating in the web application.
 ## Functional requirements
 here we describe some scenarios using use cases
 
